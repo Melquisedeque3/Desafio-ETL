@@ -1,3 +1,6 @@
+Obs: os arquivos estão na brainch master, estou melhorando meus conhecimentos em Github.
+
+
 ====================================================== DESAFIO ======================================================
 
 O desafio consiste em fazer um processo ETL, no vídeo explicativo foi mostrado o processo utilizando uma API, embora,
@@ -30,5 +33,7 @@ Embora possua informações que podem gerar maiores e diversos tipos de análise
 
 O próximo passo será utilizar a base de dados para construir um relatório dinâmico no Microsoft Power BI, com isso será possível ter uma visualização mais interativa e dinâmica.
 
+=========================================================================================================================
 
+=== Melquisedeque Oliveira =========
  
